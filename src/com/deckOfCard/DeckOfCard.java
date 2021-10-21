@@ -1,7 +1,5 @@
 package com.deckOfCard;
-
 import com.deckOfCard.AllotCards;
-
 public class DeckOfCard {
 
 	public static void main(String[] args) {
